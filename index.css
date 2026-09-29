@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FAFAFC;
+    color: #1E293B;
+  }
+}
+
+/* Custom glowing and glassmorphism helpers */
+.gradient-text {
+  background: linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-bg {
+  background: linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%);
+}
+
+.gradient-border {
+  border-image: linear-gradient(135deg, #6366F1, #8B5CF6) 1;
+}
+
+.card-shadow {
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.06);
+}
+
+.animate-pulse-slow {
+  animation: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
