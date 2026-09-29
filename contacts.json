@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c1",
+    "name": "Rahul Sharma",
+    "role": "VP of Engineering & Product Lead",
+    "company": "Acme Cloud",
+    "email": "rahul.sharma@acmecloud.io",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=256&q=80",
+    "relationship_status": "High Priority Partner",
+    "last_interaction": "2026-09-22T14:30:00Z",
+    "bank_id": "contact_rahul_sharma"
+  },
+  {
+    "id": "c2",
+    "name": "Priya Patel",
+    "role": "Head of Strategic Partnerships",
+    "company": "Nexus Systems",
+    "email": "priya.p@nexus.co",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=256&q=80",
+    "relationship_status": "Active Negotiation",
+    "last_interaction": "2026-09-24T11:00:00Z",
+    "bank_id": "contact_priya_patel"
+  },
+  {
+    "id": "c3",
+    "name": "David Chen",
+    "role": "Lead Architect",
+    "company": "DataSync Corp",
+    "email": "david.chen@datasync.com",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=256&q=80",
+    "relationship_status": "Technical Collaboration",
+    "last_interaction": "2026-09-19T16:15:00Z",
+    "bank_id": "contact_david_chen"
+  }
+]

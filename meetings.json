@@ -1,0 +1,32 @@
+[
+  {
+    "id": "m1",
+    "contact_id": "c1",
+    "contact_name": "Rahul Sharma",
+    "title": "Product Sync & Integration Review",
+    "time": "Today, 2:00 PM - 2:45 PM",
+    "scheduled_date": "2026-09-28T14:00:00Z",
+    "location": "Google Meet",
+    "agenda": "Review pending API documentation, align on auth key architecture transition, and finalize Q4 integration timeline."
+  },
+  {
+    "id": "m2",
+    "contact_id": "c2",
+    "contact_name": "Priya Patel",
+    "title": "Partnership SLA & Commercial Terms",
+    "time": "Tomorrow, 10:30 AM - 11:15 AM",
+    "scheduled_date": "2026-09-29T10:30:00Z",
+    "location": "Zoom",
+    "agenda": "Finalize revenue sharing agreement and data governance clauses."
+  },
+  {
+    "id": "m3",
+    "contact_id": "c3",
+    "contact_name": "David Chen",
+    "title": "Database Schema Migration Review",
+    "time": "Sep 30, 4:00 PM - 4:45 PM",
+    "scheduled_date": "2026-09-30T16:00:00Z",
+    "location": "Teams",
+    "agenda": "Review partition index strategies and zero-downtime migration steps."
+  }
+]
